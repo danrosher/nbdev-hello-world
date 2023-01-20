@@ -6,3 +6,4 @@ d = { 'settings': { 'branch': 'main',
                 'git_url': 'https://github.com/danrosher/nbdev-hello-world',
                 'lib_path': 'nbdev_hello_world'},
   'syms': {'nbdev_hello_world.core': {'nbdev_hello_world.core.foo': ('core.html#foo', 'nbdev_hello_world/core.py')}}}
+
